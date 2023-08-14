@@ -1,0 +1,44 @@
+_repo: Tulipunainen-neilikka-b-Pakolaisromaani_71289
+_version: 0.0.1
+alternative_title: The Scarlet Pimpernel. Finnish
+contributor:
+  translator:
+    agent_name: Enckell, Armida
+    birthdate: 1873
+    gutenberg_agent_id: '48527'
+    url: http://www.gutenberg.org/2009/agents/48527
+creator:
+  author:
+    agent_name: Orczy, Emmuska Orczy, Baroness
+    aliases:
+    - Orczy, Baroness Emmuska
+    - Barstow, Montagu, Mrs.
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '45'
+    url: http://www.gutenberg.org/2009/agents/45
+    wikipedia: https://en.wikipedia.org/wiki/Baroness_Orczy
+description: ''
+gutenberg_issued: '2023-07-28'
+identifiers:
+  gutenberg: '71289'
+language: fi
+pgterms:marc905: 20230721101458orczy
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aFinland :$bK. J. Gummerus Oy, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'British -- France -- Fiction'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Blakeney, Percy, Sir (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Tulipunainen neilikka : $b Pakolaisromaani'
+url: http://www.gutenberg.org/ebooks/71289
