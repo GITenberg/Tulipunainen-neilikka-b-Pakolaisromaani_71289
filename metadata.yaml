@@ -7,6 +7,9 @@ contributor:
     birthdate: 1873
     gutenberg_agent_id: '48527'
     url: http://www.gutenberg.org/2009/agents/48527
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Orczy, Emmuska Orczy, Baroness
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45
     wikipedia: https://en.wikipedia.org/wiki/Baroness_Orczy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71289#Tulipunainen-neilikka-b-Pakolaisromaani
 gutenberg_issued: '2023-07-28'
 identifiers:
   gutenberg: '71289'
